@@ -1,5 +1,4 @@
 # website
-JimBOTs Website
 Just open index.html, you will see the Website. 
 
 This website is not 100% designed by me. Lol
